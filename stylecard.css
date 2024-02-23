@@ -18,7 +18,9 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    align-items: center;
     padding: 0 5rem;
+
 
     list-style: none;
 }
@@ -39,7 +41,7 @@
 }
 
 .image {
-    width: 80%;
+    width: 85%;
 }
 
 .lista-emoji {
@@ -55,11 +57,14 @@
 }
 
 .botao {
-    text-decoration: none;
     color: #595758;
-    padding: 10px 15px;
+    padding: 10px 45px;
     background-color: transparent;
     cursor: pointer;
+    text-decoration: none;
+    outline: none;
+    
+
 }
 
 .botao:hover {
