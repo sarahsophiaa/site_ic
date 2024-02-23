@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #F2DFD7; 
+}
+.caixa2 {
+    display: flex;
+    flex-direction: column; 
+    align-items: flex-start ; 
+    text-align: justify;
+    background-color: #F2DFD7; 
+    padding: 15px; 
+    margin-left: 50px;
+}
+
+.caixa2 p {
+    text-align: center;
+}
