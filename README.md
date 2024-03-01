@@ -1,0 +1,1 @@
+Fiz este site como projeto para a cadeira de "Introdução à Computação" no meu primeiro período na faculdade de Ciência da Computação. Foi minha primeira vez fazendo um site e minha primeira vez construindo algo com HTML e CSS.
